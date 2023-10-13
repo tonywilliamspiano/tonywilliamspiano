@@ -1,9 +1,9 @@
 <br>
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?
-        font=Fira+Code&weight=700&size=30&pause=1000&color=B2294F&center=true&vCenter=true&repeat=true&random=true&width=435
-        &lines=Welcome!" alt="Typing SVG" />
-</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+👋;&center=true&size=30">
+  </a>
+</h1>
 
 My name is Tony and I'm a jazz musician and software engineer. After a 10-year career in music, I decided it was time for a change and fell in love with all things coding. 
 
